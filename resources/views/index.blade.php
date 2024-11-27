@@ -8,22 +8,22 @@
         
         <meta name="author" content="themefisher.com">
          <!-- Favicons -->
-        <link href="{{URL::asset('assets/images/V.PNG')}}" rel="icon">
-        <link href="{{URL::asset('assets/images/V.PNG')}}" rel="apple-touch-icon">
+        <link href="assets/images/V.PNG" rel="icon">
+        <link href="assets/images/V.PNG" rel="apple-touch-icon">
         <title>Vath Electrique</title>
       
         <!-- bootstrap.min css -->
-        <link rel="stylesheet" href=" {{URL::asset('assets/plugins/bootstrap/css/bootstrap.min.css') }}">
+        <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
         <!-- Icon Font Css -->
-        <link rel="stylesheet"  href="{{URL::asset('assets/plugins/themify/css/themify-icons.css')}}">
-        <link rel="stylesheet" href=" {{URL::asset('assets/plugins/fontawesome/css/all.css') }} ">
-        <link rel="stylesheet" href=" {{URL::asset('assets/plugins/magnific-popup/dist/magnific-popup.css') }}">
+        <link rel="stylesheet"  href="assets/plugins/themify/css/themify-icons.css">
+        <link rel="stylesheet" href=" assets/plugins/fontawesome/css/all.css">
+        <link rel="stylesheet" href="assets/plugins/magnific-popup/dist/magnific-popup.css">
         <!-- Owl Carousel CSS -->
-        <link rel="stylesheet" href=" {{URL::asset('assets/plugins/slick-carousel/slick/slick.css') }}">
-        <link rel="stylesheet" href=" {{URL::asset('assets/plugins/slick-carousel/slick/slick-theme.css') }}">
+        <link rel="stylesheet" href="assets/plugins/slick-carousel/slick/slick.css">
+        <link rel="stylesheet" href=" assets/plugins/slick-carousel/slick/slick-theme.css">
       
         <!-- Main Stylesheet -->
-        <link rel="stylesheet" href="{{URL::asset('assets/css/style.css')}}">
+        <link rel="stylesheet" href="assets/css/style.css">
       
     </head>
     <body>
@@ -277,24 +277,24 @@
 
     
     <!-- Main jQuery -->
-    <script src=" {{URL::asset('assets/plugins/jquery/jquery.js') }}"></script>
-    <script src="{{URL::asset('assets/js/contact.js') }}"></script>
+    <script src=" assets/plugins/jquery/jquery.js"></script>
+    <script src="assets/js/contact.js"></script>
     <!-- Bootstrap 4.3.1 -->
-    <script src="{{URL::asset('assets/plugins/bootstrap/js/popper.js') }}"></script>
-    <script src="{{URL::asset('assets/plugins/bootstrap/js/bootstrap.min.js') }} "></script>
+    <script src="assets/plugins/bootstrap/js/popper.js"></script>
+    <script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
    <!--  Magnific Popup-->
-    <script src=" {{URL::asset('assets/plugins/magnific-popup/dist/jquery.magnific-popup.min.js') }} "></script>
+    <script src=" assets/plugins/magnific-popup/dist/jquery.magnific-popup.min.js"></script>
     <!-- Slick Slider -->
-    <script src="{{URL::asset('assets/plugins/slick-carousel/slick/slick.min.js') }} "></script>
+    <script src="assets/plugins/slick-carousel/slick/slick.min.js"></script>
     <!-- Counterup -->
-    <script src="{{URL::asset('assets/plugins/counterup/jquery.waypoints.min.js') }}"></script>
-    <script src="{{URL::asset('assets/plugins/counterup/jquery.counterup.min.js') }}"></script>
+    <script src="assets/plugins/counterup/jquery.waypoints.min.js"></script>
+    <script src="assets/plugins/counterup/jquery.counterup.min.js"></script>
 
     <!-- Google Map -->
-    <script src=" {{URL::asset('assets/plugins/google-map/map.js') }} "></script>
+    <script src=" assets/plugins/google-map/map.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAkeLMlsiwzp6b3Gnaxd86lvakimwGA6UA&callback=initMap"></script>    
     
-    <script src="{{URL::asset('assets/js/script.js') }}"></script>
+    <script src="assets/js/script.js"></script>
 
     </body>
 </html>
